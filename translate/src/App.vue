@@ -5,6 +5,7 @@
 </template>
 
 <script>
+  import('../js/growingIO.js');
 export default {
   name: 'App'
 }
